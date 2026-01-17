@@ -1,0 +1,145 @@
+# 2️⃣ Corrected, Continuous 90-Day Plan (No Missing Days)
+
+Below is a **clean, complete, sequential plan** with:
+
+* Every day covered
+* Focus area + **depth expectation**
+* Problems aligned to SDE-2
+
+---
+
+## 🔵 DAYS 1–14: Core DSA (Level 3 Depth)
+
+| Day | Focus Area (How Deep to Study)           | Problems                                           |
+| --- | ---------------------------------------- | -------------------------------------------------- |
+| 1   | Arrays – Prefix sum, Kadane, TC analysis | Two Sum, Maximum Subarray                          |
+| 2   | Arrays – Sliding window, rotation        | Product of Array Except Self, Search Rotated Array |
+| 3   | Strings – Hashing, two pointers          | Longest Substring, Valid Anagram                   |
+| 4   | Strings – Palindromes, grouping          | Longest Palindromic Substring, Group Anagrams      |
+| 5   | Linked List – In-place reversal          | Reverse Linked List, Merge Two Sorted Lists        |
+| 6   | Linked List – Fast/slow pointers         | Detect Cycle, Remove Nth Node                      |
+| 7   | Stack – Parentheses, min tracking        | Valid Parentheses, Min Stack                       |
+| 8   | Stack – Monotonic stack                  | Daily Temperatures                                 |
+| 9   | Queue – Sliding window                   | Sliding Window Maximum                             |
+| 10  | Hash Map – Frequency counting            | Top K Frequent Elements                            |
+| 11  | Hash Map – Subarray sums                 | Subarray Sum Equals K                              |
+| 12  | Sorting – Merge/Quick sort               | Sort Colors                                        |
+| 13  | Binary Search – Edge cases               | Find Min in Rotated Array                          |
+| 14  | **Revision Day** – Re-solve weak areas   | Mixed problems                                     |
+
+---
+
+## 🟢 DAYS 15–28: Trees, Graphs, DP (Level 3 → 4)
+
+| Day | Focus Area                      | Problems                  |
+| --- | ------------------------------- | ------------------------- |
+| 15  | Tree Traversals – DFS recursion | Inorder, Preorder         |
+| 16  | Trees – Height, symmetry        | Max Depth, Symmetric Tree |
+| 17  | Trees – Path-based recursion    | Path Sum                  |
+| 18  | Trees – BST properties          | Validate BST              |
+| 19  | Trees – LCA                     | Lowest Common Ancestor    |
+| 20  | Graphs – BFS/DFS                | Number of Islands         |
+| 21  | Graphs – Clone & traversal      | Clone Graph               |
+| 22  | Graphs – Topological sort       | Course Schedule           |
+| 23  | DP – Basics (state, transition) | Climbing Stairs           |
+| 24  | DP – 1D DP                      | House Robber              |
+| 25  | DP – Knapsack pattern           | Coin Change               |
+| 26  | DP – String DP                  | Word Break                |
+| 27  | DP – Optimization               | LIS                       |
+| 28  | **Revision Day**                | DP + Trees                |
+
+---
+
+## 🟡 DAYS 29–42: Advanced DSA (Level 4 Required)
+
+| Day | Focus Area                | Problems                        |
+| --- | ------------------------- | ------------------------------- |
+| 29  | Advanced Linked List      | Copy List w/ Random Pointer     |
+| 30  | LRU Cache – Design + code | LRU Cache                       |
+| 31  | Heap – Top K              | Kth Largest                     |
+| 32  | Heap – Streaming          | Median from Data Stream         |
+| 33  | Intervals – Greedy        | Merge Intervals                 |
+| 34  | Greedy – Scheduling       | Task Scheduler                  |
+| 35  | Graph – Shortest Path     | Network Delay Time              |
+| 36  | Graph – Word Ladder       | Word Ladder                     |
+| 37  | Union Find                | Redundant Connection            |
+| 38  | DP – Edit Distance        | Edit Distance                   |
+| 39  | DP – Palindrome DP        | Longest Palindromic Subsequence |
+| 40  | DP – Matrix DP            | Unique Paths                    |
+| 41  | Bit Manipulation          | Single Number                   |
+| 42  | **Revision Day**          | Advanced DSA                    |
+
+---
+
+## 🔴 DAYS 43–60: System Design (NO GAPS)
+
+| Day | Focus Area (Depth Expected) |
+| --- | --------------------------- |
+| 43  | System Design Fundamentals  |
+| 44  | Load Balancers, APIs        |
+| 45  | Databases – SQL vs NoSQL    |
+| 46  | Caching – Redis             |
+| 47  | CAP Theorem                 |
+| 48  | URL Shortener               |
+| 49  | Rate Limiter                |
+| 50  | Cache System                |
+| 51  | Twitter Design              |
+| 52  | WhatsApp Design             |
+| 53  | YouTube Design              |
+| 54  | Uber Design                 |
+| 55  | Google Drive                |
+| 56  | Database Sharding           |
+| 57  | Messaging Systems           |
+| 58  | Consistency Models          |
+| 59  | **System Design Mock**      |
+| 60  | **Design Revision**         |
+
+---
+
+## 🟣 DAYS 61–75: Mock Interviews
+
+| Day | Focus               |
+| --- | ------------------- |
+| 61  | DSA Mock            |
+| 62  | DSA Mock            |
+| 63  | System Design Mock  |
+| 64  | System Design Mock  |
+| 65  | Behavioral (STAR)   |
+| 66  | Behavioral Practice |
+| 67  | SQL Practice        |
+| 68  | SQL Advanced        |
+| 69  | Coding Mock         |
+| 70  | Coding Mock         |
+| 71  | System Design Mock  |
+| 72  | System Design Mock  |
+| 73  | Weak Area Fix       |
+| 74  | Resume Deep Dive    |
+| 75  | Mock Interview      |
+
+---
+
+## ⚪ DAYS 76–90: Final Polishing
+
+| Day | Focus                    |
+| --- | ------------------------ |
+| 76  | Re-solve Top 20 Problems |
+| 77  | Re-solve DP Problems     |
+| 78  | Re-solve Graph Problems  |
+| 79  | Re-solve Tree Problems   |
+| 80  | System Design Revision   |
+| 81  | SQL Speed Practice       |
+| 82  | Behavioral Review        |
+| 83  | Mixed Mock               |
+| 84  | Light Revision           |
+| 85  | Light Revision           |
+| 86  | Light Revision           |
+| 87  | Light Revision           |
+| 88  | Confidence Build         |
+| 89  | Rest                     |
+| 90  | Interview Ready ✅        |
+
+---
+
+#
+---
+
